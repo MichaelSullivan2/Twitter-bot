@@ -1,1 +1,1 @@
-worker: python wine_of_day.py
+worker:python wine_of_day.py
