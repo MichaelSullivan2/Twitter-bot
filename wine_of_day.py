@@ -89,7 +89,7 @@ def my_job():
             media_list2.pop()
         print(chem)
 
-schedule.every().day.at("10:30").do(my_job)
+schedule.every().day.at("11:15").do(my_job)
 
 while True:
     schedule.run_pending()
